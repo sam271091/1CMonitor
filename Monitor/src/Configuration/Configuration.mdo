@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f788a04e-09ac-42f8-9ed7-4fe9cf67f0af">
+  <name>Monitor1C</name>
+  <synonym>
+    <key>ru</key>
+    <value>Monitor 1C</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="067aedf6-5c0c-404e-b44c-62ac2d674b6b"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e22c5817-d5c9-4c89-9e19-172ccb413deb"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d036e59e-cba9-4e41-8851-71e4edb643d8"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="d638b64e-fb2e-400f-881f-1f10213b6aa3"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="82ce14bb-1805-43ed-8a15-2ecf36573709"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c664e76f-63b2-4aeb-b2f0-570a6f5c9d0a"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="b1466f05-bcf7-46d9-9255-d7c1ef6a3018"/>
+  <configurationExtensionCompatibilityMode>8.3.19</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>BestSoft</vendor>
+  <version>2.0.3</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <logo/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <interfaceCompatibilityMode>Version8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.15</compatibilityMode>
+  <languages uuid="5f1bfd77-95c5-4d9c-b16e-aba6081aadf4">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ПодключениеСервер</commonModules>
+  <catalogs>Catalog.ИнформационныеБазы</catalogs>
+  <dataProcessors>DataProcessor.Монитор</dataProcessors>
+  <dataProcessors>DataProcessor.Настройки</dataProcessors>
+</mdclass:Configuration>

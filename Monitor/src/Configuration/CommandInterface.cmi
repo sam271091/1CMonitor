@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <commandsVisibility>
+    <visibilityFragments>
+      <command>100:5a6487ad-c97b-408c-987a-6e57fbe1e0a9</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>100:e03b879a-64a1-4da3-b31d-550140297157</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>100:ae5f37f3-b9b1-4389-93e2-455d54278545</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>100:3314cd4e-cec6-4d7d-a221-acc5ea114e3d</command>
+      <visible/>
+    </visibilityFragments>
+  </commandsVisibility>
+</cmi:CommandInterface>
